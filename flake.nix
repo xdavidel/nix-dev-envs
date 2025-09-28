@@ -79,7 +79,6 @@
                 build
                 check
                 format
-                update
               ]
               ++ [pkgs.nixfmt-rfc-style];
           };
